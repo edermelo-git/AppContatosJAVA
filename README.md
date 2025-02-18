@@ -72,7 +72,7 @@ A API implementa as seguintes funcionalidades:
 
 ### Passos
 
-1. Clone o repositório:
+Primero Clone o repositório:
    ```bash
    git clone https://github.com/edermelo-git/AppContatosJAVA
    ```

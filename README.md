@@ -74,7 +74,7 @@ A API implementa as seguintes funcionalidades:
 
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone https://github.com/edermelo-git/AppContatosJAVA
    ```
 
    Importe o projeto em sua IDE como Eclipse, Intellij, vsCode

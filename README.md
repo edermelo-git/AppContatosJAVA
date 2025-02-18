@@ -1,4 +1,4 @@
-#API Rest para Controle de Contatos
+#API Rest para Controle de Pessoas e Contato 
 
 ## Sobre o Projeto 
 

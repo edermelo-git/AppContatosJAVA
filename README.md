@@ -81,7 +81,7 @@ Primero Clone o repositório:
 
 ## Configuração do Banco de Dados
 
-Defina as credenciais do banco de dados no arquivo application.properties:
+Defina as credenciais do **Banco de Dados no arquivo** "application.properties":
 
 ```
 spring.application.name=AppListContatos
